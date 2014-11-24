@@ -2,7 +2,8 @@
 
 Instructions: 
 
-1. Clone this repository 
+1. Clone this repository
+ 
 		$ git clone git@github.com:sf-wdi-14/underscore-lab.git
 
 2. Change directories into the underscore-lab repository.
